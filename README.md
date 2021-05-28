@@ -2,6 +2,6 @@ Aplictivo #2 de #14 do curso Criação de Apps Android e iOS com Flutter 2021 di
 
 Curso: https://www.udemy.com/course/curso-completo-flutter-app-android-ios/
 
-O aplicativo calcula o IMC do usuário a partir de sua massa e altura, reornando o IMC com a indicação textual de onde se encontra nos indices.
+O aplicativo calcula o IMC do usuário a partir de sua massa e altura, retornando o IMC com a indicação textual de onde se encontra nos indices (Acima do peso, peso ideal, ...).
 
 Nessa aplicação são utilizados conceitos de Scarffold, AppBar, TextField, Decoration, ScrollView, raisedButton, Controller, Formulários e validações.
